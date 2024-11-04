@@ -1,0 +1,5 @@
+Chapter 1. First commit
+
+git add
+git commit
+git log
