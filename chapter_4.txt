@@ -1,3 +1,6 @@
 Chapter 4. Pulling changes
 
 git pull
+
+Retrieve changes but not apply them
+git fetch
