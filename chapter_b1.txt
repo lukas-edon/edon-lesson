@@ -1,4 +1,4 @@
 Chapter b1. Branches
 
-git checkout -b || this line changed for testing purposes by chapter b2
+git checkout -b || this line was changed by chapter_b1 for conflict
 git push -u origin
