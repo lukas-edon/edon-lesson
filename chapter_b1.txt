@@ -1,4 +1,4 @@
 Chapter b1. Branches
 
-git checkout -b
+git checkout -b || this line changed for testing purposes by chapter b2
 git push -u origin
